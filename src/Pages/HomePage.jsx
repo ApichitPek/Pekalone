@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import NewTask from "../components/NewTask";
-import TodoItem from "../components/TodoItem";
+import NewTask from "../Components/NewTask";
+import TodoItem from "../Components/TodoItem";
 import { toast } from "react-toastify";
 
 const HomePage = () => {
